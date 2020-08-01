@@ -11,13 +11,6 @@ KEYWORD = ''
 
 # ワードクラウド除外ワード
 NG_WORD = [
-    'シンフォギア',
-    'シンフォギアXD',
-    'symphogear',
-    'symphogearxd',
-    'xd',
-    'XD',
-    'UNLIMITED',
     'さん',
     'これ',
     'それ',
